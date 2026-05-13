@@ -2,19 +2,17 @@
 
 ## Project Screenshots
 
-### Lambda Function
+## Lambda Function
 ![Lambda](screenshots/lambda.png)
 
-### DynamoDB Table
+## DynamoDB Table
 ![DynamoDB](screenshots/dynamodb.png)
 
-### Code
-![code](screenshots/code.png)
+## Code
+![Code](screenshots/code.png)
 
-
-### Final Output
+## Final Output
 ![Output](screenshots/output.png)
-
 
 ## Overview
 
